@@ -103,12 +103,12 @@ body{
 .user{
     align-self: flex-end;
     margin-right: 10px;
-    background: linear-gradient(180deg, #ffebc0, #ffd67d);
+    background: linear-gradient(180deg, #a5a8ff, #7c80ff);
     padding: 10px;
     opacity: 1;
     animation: fadeIN 0.5s;
     background-size: cover;
-    color: #222;
+    color: #0b0b0b;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
@@ -117,10 +117,10 @@ body{
     opacity: 1;
     margin-left: 10px;
     animation: fadeIN 0.5s;
-    background: linear-gradient(180deg, #222, #111);
+    background: linear-gradient(180deg, #fffefd, #ffddd0);
     padding: 10px;
     background-size: cover;
-    color: #eee;
+    color: #111;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
