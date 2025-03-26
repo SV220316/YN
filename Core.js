@@ -21,6 +21,7 @@ function onld(){
             var STS = "INVALID PRODUCT!";
         }
     }
+    else{var STS = "INVALID PRODUCT!";}
     Usrname = user;
     EEK = EEKey;
     STATE = STS
